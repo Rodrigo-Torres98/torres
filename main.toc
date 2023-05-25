@@ -1,0 +1,50 @@
+\babel@toc {russian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {russian}{}\relax 
+\contentsline {section}{ОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ}{7}{Doc-Start}%
+\contentsline {section}{ВВЕДЕНИЕ}{8}{Doc-Start}%
+\contentsline {section}{\numberline {1}Анализ предметной области}{10}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Характеристики компании и пользователей}{10}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Html, первое поколение в мире веб-дизайна}{10}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Второе поколение}{11}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Третье поколение}{12}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Четвертое поколение веб-сайтов}{13}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Пятое поколение}{13}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}Аддитивные технологии, их классификация}{14}{subsection.1.7}%
+\contentsline {subsection}{\numberline {1.8}Преимущества использования HTML}{14}{subsection.1.8}%
+\contentsline {subsection}{\numberline {1.9}Преимущества веб-сайта в ветеринарная клиника}{16}{subsection.1.9}%
+\contentsline {subsection}{\numberline {1.10}Исследование предметной области}{17}{subsection.1.10}%
+\contentsline {section}{\numberline {2}Техническое задание}{18}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Основание для разработки}{18}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Цель и назначение разработки}{18}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Требования пользователя к интерфейсу web-сайта}{19}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Требования к обработке продукции}{20}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Моделирование вариантов использования}{21}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Спецификация и функции программы}{22}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Требования к оформлению документации}{23}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Стадии и этапы разработки}{23}{subsection.2.8}%
+\contentsline {section}{\numberline {3}Технический проект}{25}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Общая характеристика организации решения задачи}{25}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Обоснование выбора технологии проектирования}{25}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Описание используемых технологий и языков программирования}{25}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Язык программирования HTML}{25}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Язык программирования PHP}{27}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}Язык программирования JavaScript}{27}{subsubsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.5}Язык программирования C\#}{28}{subsubsection.3.2.5}%
+\contentsline {subsubsection}{\numberline {3.2.6}Язык программирования CSS}{29}{subsubsection.3.2.6}%
+\contentsline {subsection}{\numberline {3.3}SQL Server}{32}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Преимущества использования языка программирования CSS}{33}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Преимущества использования MySQL}{35}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Разница между HTML и CSS}{36}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Недостатки языка HTML}{38}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8} Недостатки языка CSS}{39}{subsection.3.8}%
+\contentsline {subsection}{\numberline {3.9}Недостатками MySQL}{40}{subsection.3.9}%
+\contentsline {subsection}{\numberline {3.10}Диаграмма компонентов и схема обмена данными между файлами компонента}{41}{subsection.3.10}%
+\contentsline {subsection}{\numberline {3.11}Диаграмма размещения}{43}{subsection.3.11}%
+\contentsline {subsection}{\numberline {3.12}Диаграмма таблицы MySQL}{43}{subsection.3.12}%
+\contentsline {subsection}{\numberline {3.13}Содержание информационных блоков. Основные сущности}{46}{subsection.3.13}%
+\contentsline {section}{\numberline {4}Рабочий проект}{49}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Классы, используемые при разработке сайта}{49}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Тестирование разработанного web-сайта}{50}{subsection.4.2}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{54}{figure.caption.8}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{55}{figure.caption.8}%
